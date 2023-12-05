@@ -1,0 +1,59 @@
+# Add new library/item in Jellyfin
+
+### Jellyfin module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-jellyfin) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Jellyfin/) | [FAQ](https://faq.puqcloud.com/)
+
+### New library:
+
+To create a new library, you should to **create a folder** in your jellyfin server.
+
+First, navigate to the root of your project "/" and enter the following commands:
+
+```
+cd mnt
+```
+
+```
+mkdir LIBRARY_NAME
+```
+
+**LIBRARY\_NAME** - The name of the new library.
+
+##### After creating a folder, let's create a library in Jellyfin: 
+
+Add a new library:
+
+[![2023-11-03_10-33.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/2023-11-03-10-33.png)](https://doc.puq.info/uploads/images/gallery/2023-11/2023-11-03-10-33.png)
+
+Assign the appropriate folder to this library:
+
+[![2023-11-03_10-34_1.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/2023-11-03-10-34-1.png)](https://doc.puq.info/uploads/images/gallery/2023-11/2023-11-03-10-34-1.png)
+
+[![2023-11-03_10-34_2.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/2023-11-03-10-34-2.png)](https://doc.puq.info/uploads/images/gallery/2023-11/2023-11-03-10-34-2.png)
+
+###  
+
+### New item:
+
+To download a new item, navigate to the root of your project "/" and enter the following commands:
+
+```
+cd mnt/LIBRARY_NAME
+```
+
+```
+wget DOWNLOAD_ITEM_URL
+```
+
+**LIBRARY\_NAME** - The name of the library.
+
+**DOWNLOAD\_ITEM\_URL** - The download URL of the item you want to upload to the server.
+
+###  
+
+### After all
+
+Scan all libraries by clicking on the "Scan All Libraries" button, or scan the specific library by clicking on the three dots and selecting "Scan Library."
+
+[![2023-11-03_10-35.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/2023-11-03-10-35.png)](https://doc.puq.info/uploads/images/gallery/2023-11/2023-11-03-10-35.png)[![2023-11-03_10-45.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/2023-11-03-10-45.png)](https://doc.puq.info/uploads/images/gallery/2023-11/2023-11-03-10-45.png)

@@ -1,0 +1,21 @@
+# Getting Access Hash (API key)
+
+### Jellyfin module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-jellyfin) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Jellyfin/) | [FAQ](https://faq.puqcloud.com/)
+
+```
+Dashboard -> API Keys
+```
+
+##### Create a new API Key
+
+[![123.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/123.png)](https://doc.puq.info/uploads/images/gallery/2023-11/123.png)
+
+##### Whrite an App Name
+
+[![2023-11-02_12-27.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/2023-11-02-12-27.png)](https://doc.puq.info/uploads/images/gallery/2023-11/2023-11-02-12-27.png)
+
+##### Now you can getting an API key
+
+[![6.png](https://doc.puq.info/uploads/images/gallery/2023-12/scaled-1680-/6.png)](https://doc.puq.info/uploads/images/gallery/2023-12/6.png)
