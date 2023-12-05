@@ -4,7 +4,7 @@
 
 ##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-jellyfin) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Jellyfin/) | [FAQ](https://faq.puqcloud.com/)
 
-#### 1. Install Jellyfin on your server
+### 1. Install Jellyfin on your server
 
 To simplify deployment and help automate this for as many users as possible, we provide a BASH script to handle repo installation as well as installing Jellyfin. All you need to do is run this command on your system
 
@@ -12,7 +12,7 @@ To simplify deployment and help automate this for as many users as possible, we 
  wget -O- https://repo.jellyfin.org/install-debuntu.sh | sudo bash
 ```
 
-#### 2. SSL certificate generation:
+### 2. SSL certificate generation:
 
 ```
 sudo apt install nginx certbot python3-certbot-nginx
@@ -26,7 +26,7 @@ sudo certbot --nginx --agree-tos --redirect --hsts --staple-ocsp --email YOUR_EM
 echo "0 0 * * *  root  certbot renew --quiet --no-self-upgrade --post-hook 'systemctl reload nginx'" | sudo tee -a /etc/cron.d/renew_certbot
 ```
 
-#### 3. Configure nginx from a subdomain
+### 3. Configure nginx from a subdomain
 
 Create a file named jellyfin.conf.
 
@@ -35,7 +35,7 @@ cd /etc/nginx/conf.d/
 nano jellyfin.conf
 ```
 
-Then, insert the following text, replacing <span style="color: #ff0000;">DOMAIN\_NAME</span> with your domain.
+Then, insert the following text, replacing **DOMAIN\_NAME** with your domain.
 
 ```Nginx
 # Uncomment the commented sections after you have acquired a SSL Certificate
@@ -143,7 +143,7 @@ server {
 }
 ```
 
-#### Restarting nginx
+### Restarting nginx
 
 ```
 sudo service nginx restart
