@@ -18,4 +18,4 @@ The end customer, after logging in to his own customer panel, has access to the 
 
 Screenshot of the client area
 
-[![7.png](https://doc.puq.info/uploads/images/gallery/2023-12/scaled-1680-/7.png)](https://doc.puq.info/uploads/images/gallery/2023-12/7.png)
+![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-Jellyfin/assets/81689153/2f98368d-2c57-4ecc-8798-10c1f15e47c5)
