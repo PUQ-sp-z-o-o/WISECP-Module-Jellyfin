@@ -51,7 +51,7 @@ The module is used to create customer accounts on the previously prepared Jellyf
 
 ### Screenshot of the Client area
 
-![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-Jellyfin/assets/81689153/0ab9296d-42f0-4327-8df1-4b5b642df704)
+![image](https://github.com/user-attachments/assets/145430d6-ced9-463a-b400-33d687548f17)
 
 ### Screenshot of the Admin area
 
